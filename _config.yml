@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Fabio Escobar
-logo: "/assets/images/20201014_135411-2.jpg"
-description: Hi! Welcome to my portfolio.
+logo: /assets/img/20201014_135411-2.jpg
+description: Hi! Welcome to my portfolio. 
 google_analytics: UA-180827041-1
